@@ -1,4 +1,4 @@
 # Чтобы начать работать с этим проектом, вам надо установить Microsoft Visual Studio 2022
-![утановка среды] (https://metanit.com/sharp/aspnet6/pics/1.7.png)
+![утановка среды](https://metanit.com/sharp/aspnet6/pics/1.7.png)
 1. После установки самой среды вам нужно установить необходимые компоненты
    - 
